@@ -129,7 +129,7 @@ export default function Home() {
           <div className="element">
             <h3>Paylocity</h3>
             <div className="details">
-              <p>Senior UX Researcher / Product Designer</p>
+              <p>UX Researcher / Product Designer</p>
               <p>05/21 – Present</p>
             </div>
           </div>
